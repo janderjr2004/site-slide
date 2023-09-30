@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+}
+
+#title {
+    font-size: 75px;
+    color: white;
+    margin-top: 170px;
+    margin-left: 25px;
+    width: 300px;
+}
+
+#class {
+    font-size: 20px;
+    color: rgb(0, 255, 197);
+    margin-top: 350px;
+    margin-left: -260px;
+}
+
+#container-imagem {
+    display: flex;
+    position: relative;
+    height: 500px;
+    width: 50vw;
+    background: url('../img/BACKGROUND.jpg');
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+    text-align: center;
+}

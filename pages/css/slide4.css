@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+}
+
+img{
+    margin-top: 270px;
+    margin-left: 450px;
+}
+
+#container-imagem {
+    position: relative;
+    height: 500px;
+    width: 50vw;
+    background: url('/img/BACKGROUND2.jpg');
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+}

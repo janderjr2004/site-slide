@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+#number{
+    font-size: 100px;
+    color: rgb(0,255,197);
+    position: relative;
+    top: 120px;
+}
+
+#title{
+    font-size: 45px;
+    color: white;
+    margin-top: 150px;
+}
+
+#container-imagem {
+    position: relative;
+    height: 500px;
+    width: 50vw;
+    background: url('/img/BACKGROUNDTITULOS.jpg');
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-top: 200px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 5px;
+    
+}
